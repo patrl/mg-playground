@@ -10,8 +10,8 @@ let
         diagrams
         diagrams-contrib
         diagrams-cairo
-        diagrams-rasterific
         ihaskell-diagrams
+        microlens
       ];
     };
 
